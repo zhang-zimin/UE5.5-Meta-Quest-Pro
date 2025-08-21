@@ -3,15 +3,15 @@
 
 ## 1. 环境准备
 
-- 安装 Unreal Engine 5（UE5）
+- 安装 Unreal Engine 5.5.4（UE5）
 - 准备 Meta Quest 或其他支持的VR设备
-- 安装 Meta XR 插件（可在UE Marketplace或Epic Launcher中搜索“Meta XR”）
+- 安装 Meta XR 插件
 
 ## 2. 项目设置
 
 1. 创建或打开UE5项目
 2. 在插件管理器中启用 Meta XR 插件
-3. 在项目设置中，配置XR相关参数（如OpenXR、Meta Quest支持等）
+3. 在项目设置中，配置XR相关参数（如关闭OpenXR等）
 4. 设置合适的渲染分辨率和性能参数以适配VR设备
 
 ## 3. 导入和准备模型

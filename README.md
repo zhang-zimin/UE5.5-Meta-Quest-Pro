@@ -1,0 +1,45 @@
+
+# 在UE5中使用Meta进行VR模型查看指南
+
+## 1. 环境准备
+
+- 安装 Unreal Engine 5（UE5）
+- 准备 Meta Quest 或其他支持的VR设备
+- 安装 Meta XR 插件（可在UE Marketplace或Epic Launcher中搜索“Meta XR”）
+
+## 2. 项目设置
+
+1. 创建或打开UE5项目
+2. 在插件管理器中启用 Meta XR 插件
+3. 在项目设置中，配置XR相关参数（如OpenXR、Meta Quest支持等）
+4. 设置合适的渲染分辨率和性能参数以适配VR设备
+
+## 3. 导入和准备模型
+
+- 将需要查看的3D模型（如FBX、OBJ等格式）导入UE5
+- 在场景中放置模型，并调整其位置、缩放和材质
+
+## 4. VR场景搭建
+
+- 添加VR Pawn或Meta XR默认Pawn到场景
+- 配置VR摄像机和控制器输入
+- 设置交互方式（如抓取、缩放、旋转模型等）
+
+## 5. 部署到Meta设备
+
+1. 连接Meta Quest设备到电脑
+2. 在UE5中选择“平台”->“Android”
+3. 配置包名、签名等Android相关参数
+4. 打包并部署项目到Meta Quest设备
+
+## 6. 在Meta设备上查看模型
+
+- 戴上Meta Quest设备，启动应用
+- 使用手柄或手势在VR环境中查看和操作模型
+
+## 7. 常见问题与解决
+
+- 若模型显示异常，检查模型导入设置和材质兼容性
+- 若VR交互无响应，检查Pawn和输入映射设置
+- 若部署失败，确认Android SDK和Meta设备驱动已正确安装
+

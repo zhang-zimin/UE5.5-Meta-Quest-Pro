@@ -7,7 +7,14 @@
 - 准备 Meta Quest 或其他支持的VR设备
 - 安装 Meta XR 插件
 
-## 2. 项目设置
+## 2. 使用Meta桌面软件连接Meta Quest Pro
+
+1. 下载并安装 Meta Quest Link 桌面软件（可在 Meta 官网获取）。
+2. 使用USB线或高速Wi-Fi将Meta Quest Pro与电脑连接。
+3. 打开Meta Quest Link桌面软件，确保设备已识别。
+4. 在Meta Quest Pro头显中选择“Quest Link”模式，进入PC VR连接界面。
+
+## 3. Unreal Engine 项目设置
 
 1. 创建或打开UE5项目
 2. 在插件管理器中启用 Meta XR 插件
@@ -37,9 +44,9 @@
 - 戴上Meta Quest设备，启动应用
 - 使用手柄或手势在VR环境中查看和操作模型
 
-## 7. 常见问题与解决
+### 注意事项
+- 建议使用USB 3.0线缆以获得更稳定的连接体验。
+- 若遇到连接问题，可重启设备或检查驱动和软件版本。
 
-- 若模型显示异常，检查模型导入设置和材质兼容性
-- 若VR交互无响应，检查Pawn和输入映射设置
-- 若部署失败，确认Android SDK和Meta设备驱动已正确安装
+---
 

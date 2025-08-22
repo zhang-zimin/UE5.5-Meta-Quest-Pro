@@ -31,7 +31,10 @@
 
   ![UE5 VR模型预览选项](image.png)
 
-> **注意：** 如果 VR Preview 按钮为灰色不可用，需先安装并启动 SteamVR，确保头显已连接到 SteamVR，之后再重启 UE5，即可激活 VR Preview 功能。
+
+> **注意：**
+> - 如果 VR Preview 按钮为灰色不可用，需先安装并启动 SteamVR，确保头显已连接到 SteamVR，之后再重启 UE5，即可激活 VR Preview 功能。
+> - 如果点击 VR Preview 后没有在 VR 设备上看到画面，说明 Quest Link 未成功启动。此时建议先启动 SteamVR，观察是否有报错提示，确认头显和 Quest Link 已正确连接。
 
 > SteamVR下载地址：[SteamVR 官方页面](https://www.steamvr.com/en/)
 

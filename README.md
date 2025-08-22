@@ -28,8 +28,9 @@
 
 ## 4. 导入和查看模型
 
-- 将需要查看的 3D 模型（如 FBX、OBJ 等格式）导入 UE5
 - 在场景中放置模型，选择 VR Preview 模式进入游戏，此时 Meta Quest Pro 中即可看到 3D 模型
+
+  ![UE5 VR模型预览选项](image.png)
 
 
 

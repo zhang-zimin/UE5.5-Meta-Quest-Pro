@@ -2,11 +2,13 @@
 
 ---
 
+
 ## 1. 环境准备
 
 - 安装 Unreal Engine 5.5.4 版本
 - 准备 Meta Quest Pro 或其他兼容的 VR 设备
 - 下载并安装 Meta Quest Link 桌面软件（注意：中国局域网内可能无法正常使用）
+- 下载并安装 Meta XR 插件：[Meta XR 官方页面](https://www.unrealengine.com/marketplace/en-US/product/meta-xr)
 
 ## 2. 连接 Meta Quest Pro 到电脑
 
@@ -18,11 +20,12 @@
 
 > 视频参考：[B站教程](https://www.bilibili.com/video/BV15b421J7Ee/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click)
 
+
 ## 3. Unreal Engine 项目设置
 
-1. 创建或打开 UE5 项目
-2. 在插件管理器中启用 Meta XR 插件
-3. 在项目设置中，配置 XR 相关参数（如在插件中开启 OpenXR 等）
+1. 建议使用 UE5 的 VR 模板新建项目，以获得更好的VR交互体验。
+2. 在插件管理器中启用 Meta XR 插件。
+3. 在项目设置中，配置 XR 相关参数（如在插件中开启 OpenXR 等）。
 
 ## 4. 导入和查看模型
 

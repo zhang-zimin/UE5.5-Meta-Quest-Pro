@@ -1,5 +1,3 @@
-
-
 # UE5中使用Meta Quest Pro进行VR模型查看操作指南
 
 ---
@@ -28,10 +26,13 @@
 
 ## 4. 导入和查看模型
 
-- 在场景中放置模型，选择 VR Preview 模式进入游戏，此时 Meta Quest Pro 中即可看到 3D 模型
+
+- 在场景中放置模型，选择 VR Preview 模式进入游戏，此时 Meta Quest Pro 中即可看到 3D 模型。
 
   ![UE5 VR模型预览选项](image.png)
 
+> **注意：** 如果 VR Preview 按钮为灰色不可用，需先安装并启动 SteamVR，确保头显已连接到 SteamVR，之后再重启 UE5，即可激活 VR Preview 功能。
 
+> SteamVR下载地址：[SteamVR 官方页面](https://www.steamvr.com/en/)
 
 

@@ -12,10 +12,10 @@
 
 ## 2. 连接 Meta Quest Pro 到电脑
 
-1. 使用 USB 线或高速 Wi-Fi 将 Meta Quest Pro 与电脑连接：
+1. 打开 Meta Quest Link 桌面软件，升级至最新驱动。
+2. 在 Meta Quest Link 桌面软件中选择添加设备
     - **USB 连接**：请确保电脑具备 USB 3.0 接口，否则可能连接失败。遇到问题时可尝试更换接口。
     - **Wi-Fi 连接**：电脑和头显需处于同一网络环境下。Wi-Fi 连接不稳定时，可尝试重启电脑和头显。
-2. 打开 Meta Quest Link 桌面软件，升级至最新驱动，确认设备已被识别。
 3. 在 Meta Quest Pro 头显中选择“Quest Link”模式，进入 PC VR 连接界面。
 
 > 视频参考：[B站教程](https://www.bilibili.com/video/BV15b421J7Ee/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click)

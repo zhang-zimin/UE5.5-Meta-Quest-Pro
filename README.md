@@ -44,4 +44,4 @@
 
 ## 参考资料
 
-- [meta docs](https://developers.meta.com/horizon/documentation/unreal/unreal-engine-basics/)
+- [PC-VR Integration for Unreal Engine Basics](https://developers.meta.com/horizon/documentation/unreal/unreal-engine-basics/)
